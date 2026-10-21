@@ -1,22 +1,9 @@
-# Ultimate Lemmings — Releases
+# Moved to Ultimate Lemmings
 
-Signed, notarized macOS builds of **Ultimate Lemmings**, an unofficial native
-Swift port of the 2D Lemmings games.
+This repository is archived. Development, downloads and bug reports are maintained in
+[ErikVeland/Lemmings](https://github.com/ErikVeland/Lemmings).
 
-This repository holds release downloads only. There is no source code here —
-the project source lives in a private repository.
+- [Downloads](https://github.com/ErikVeland/Lemmings/releases)
+- [Bug reports](https://github.com/ErikVeland/Lemmings/issues)
 
-## Downloads
-
-See the [Releases](../../releases) page for the latest build.
-
-- **Ultimate Lemmings** — Developer ID signed and notarized, macOS 13+
-- **Ultimate Lemmings (Monterey)** — Developer ID signed and notarized, macOS 12.3+
-
-Both archives are notarized by Apple; macOS Gatekeeper should open them without
-a security warning after unzipping.
-
-## Status
-
-This build is a release candidate. See the release notes attached to each
-release for current scope and known limitations.
+Existing release files remain here so old download links continue to work.
